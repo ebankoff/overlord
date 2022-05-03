@@ -583,7 +583,7 @@ def main():
 		os.system("clear")
 
 	if platform == 'win32':
-		ctypes.windll.kernel32.SetConsoleTitleW(f"⚡️Panther⚡️")
+		ctypes.windll.kernel32.SetConsoleTitleW(f"☠️ overlord ☠️")
 
 	print(Fore.RED +
 	    '┏━━━┓     ┏┓┏┓'
