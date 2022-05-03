@@ -24,12 +24,13 @@
 `First setup`
 - The program will configure everything on its own. If the automatic configuration fails, you can configure everything manually. A requirements.txt file is supplied with overlord. This file contains external dependencies. To install them, open cmd/terminal and write: **pip install -r requirements.txt.**
 - To work correctly the software needs a good proxies and [anticaptcha](https://anti-captcha.com) API key to solve captchas.
-- Write Discord accounts in the **accounts.txt** file (located in the files folder) in the format: **mail:password:token.**
-- Next, write the [anticaptcha](https://anti-captcha.com) API key into the **api_config.ini** file (located in the files folder). 
-- In the **message.txt** file (located in the files folder) write the message to be sent out. 
-- In file **targets.txt** (located in files folder) write manually IDs of accounts where message should be delivered or automatically by server member parser.
-- In file **blacklist.txt** (located in files folder) write IDs of accounts where it is not necessary to deliver the message. 
-- In the folder **avatars** put avatars (at least one), they will be needed if you enable the function to change the avatars. 
+- Write Discord accounts in the **accounts.txt** file (located in the "files" folder) in the format: **mail:password:token.**
+- Write in the **proxies.txt** file (located in the "files" folder) the proxies.
+- Next, write the [anticaptcha](https://anti-captcha.com) API key into the **api_config.ini** file (located in the "files" folder). 
+- In the **message.txt** file (located in the "files" folder) write the message to be sent out. 
+- In file **targets.txt** (located in "files" folder) write manually IDs of accounts where message should be delivered or automatically by server member parser.
+- In file **blacklist.txt** (located in "files" folder) write IDs of accounts where it is not necessary to deliver the message. 
+- In the folder **"avatars"** put avatars (at least one), they will be needed if you enable the function to change the avatars. 
 
 **The setup is done!**
 
@@ -69,12 +70,13 @@
 `Первая настройка`
 - Программа настроит все самостоятельно. Если автоматическая настройка не удалась, Вы можете настроить все вручную. Вместе с overlord идет файл requirements.txt. Этот файл содержит внешние зависимости. Чтобы установить их, нужно открыть cmd/terminal и написать: **pip install -r requirements.txt**
 - Для корректной работы софту нужны хорошие прокси и API ключ [anticaptcha](https://anti-captcha.com) для решения капч.
-- Запишите в файл **accounts.txt** (находится в папке files) аккаунты Discord в формате: **почта:пароль:токен.**
-- Далее запишите в файл **api_config.ini** (находится в папке files) API ключ [anticaptcha](https://anti-captcha.com). 
-- В файл **message.txt** (находится в папке files) запишите сообщение для рассылки. 
-- В файл **targets.txt** (находится в папке files) вручную запишите ID аккаунтов, куда должно быть доставлено сообщение, либо автоматически, при помощи парсера участников сервера. 
-- В файл **blacklist.txt** (находится в папке files) запишите ID аккаунтов, куда **не нужно достовлять сообщение.** 
-- В папку **avatars** поместите аватары (не менее одного), они потребуются, если вы включите функцию смены аватаров.
+- Запишите в файл **accounts.txt** (находится в папке "files") аккаунты Discord в формате: **почта:пароль:токен.**
+- Запишите в файл **proxies.txt** (находится в папке "files") прокси.**
+- Далее запишите в файл **api_config.ini** (находится в папке "files") API ключ [anticaptcha](https://anti-captcha.com). 
+- В файл **message.txt** (находится в папке "files") запишите сообщение для рассылки. 
+- В файл **targets.txt** (находится в папке "files") вручную запишите ID аккаунтов, куда должно быть доставлено сообщение, либо автоматически, при помощи парсера участников сервера. 
+- В файл **blacklist.txt** (находится в папке "files") запишите ID аккаунтов, куда **не нужно достовлять сообщение.** 
+- В папку **"avatars"** поместите аватары (не менее одного), они потребуются, если вы включите функцию смены аватаров.
 
 **Настройка завершена!**
 
