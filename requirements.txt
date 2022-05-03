@@ -1,0 +1,14 @@
+bs4
+emoji
+wheel
+asyncio
+discord
+requests
+colorama
+progress
+matplotlib
+progressbar
+beautifulsoup4
+selenium_stealth
+webdriver-manager
+anticaptchaofficial
