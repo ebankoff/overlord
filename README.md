@@ -30,7 +30,7 @@
 - In the **message.txt** file (located in the "files" folder) write the message to be sent out. 
 - In file **targets.txt** (located in "files" folder) write manually IDs of accounts where message should be delivered or automatically by server member parser.
 - In file **blacklist.txt** (located in "files" folder) write IDs of accounts where it is not necessary to deliver the message. 
-- In the folder **"avatars"** put avatars (Important! The name of the avatar should be its serial number, for example 1.png.), they will be needed if you enable the function to change the avatars. 
+- In the folder **"avatars"** put avatars (Important! The name of the avatar should be its serial number, for example 1.png. Also, all avatars must be in png format!), they will be needed if you enable the function to change the avatars. 
 
 **The setup is done!**
 
@@ -76,7 +76,7 @@
 - В файл **message.txt** (находится в папке "files") запишите сообщение для рассылки. 
 - В файл **targets.txt** (находится в папке "files") вручную запишите ID аккаунтов, куда должно быть доставлено сообщение, либо автоматически, при помощи парсера участников сервера. 
 - В файл **blacklist.txt** (находится в папке "files") запишите ID аккаунтов, куда **не нужно достовлять сообщение.** 
-- В папку **"avatars"** поместите аватары (Важно! Название аватара должно быть его порядковым номером, например 1.png.), они потребуются, если вы включите функцию смены аватаров.
+- В папку **"avatars"** поместите аватары (Важно! Название аватара должно быть его порядковым номером, например 1.png. Так же все аватары должны быть в формате png!), они потребуются, если вы включите функцию смены аватаров.
 
 **Настройка завершена!**
 
