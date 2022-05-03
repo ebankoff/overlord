@@ -38,6 +38,8 @@
 * cd overlord
 * python3 overlord.py
 
+[![wtf](https://i.ibb.co/6wxzS6v/Untitled-Copy-Copy-Copy.png "overlord")](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLrpgO-fUNO4OKpFbFXb2cQlF72Yj3ppJv) 
+
 # 📌 Problems and their solutions
 
 If you see something like this:
@@ -93,6 +95,8 @@ This means that you don't have the library that is specified in the error, in th
 `Запуск`
 * cd overlord
 * python3 overlord.py
+
+[![wtf](https://i.ibb.co/6wxzS6v/Untitled-Copy-Copy-Copy.png "overlord")](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLrpgO-fUNO4OKpFbFXb2cQlF72Yj3ppJv) 
 
 # 📌 Проблемы и их решения
 
