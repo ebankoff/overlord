@@ -37,6 +37,17 @@
 * cd overlord
 * python3 overlord.py
 
+# 📌 Donate for coffee
+
+`Qiwi:`
+
+[![wtf2](https://i.ibb.co/ryDytyR/Comp-1-00000.png)](https://qiwi.com/n/HERAMANT)
+
+`Crypto:`
+* **Smart chain: 0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
+* **Bitcoin: bc1qxfvstf99kyuc5x5uugxtsh3m6w3a73ruzfav7e**
+* **Ethereum: 0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
+
 # 📌 RU
 
 `Преимущества`
@@ -70,3 +81,14 @@
 `Запуск`
 * cd overlord
 * python3 overlord.py
+
+# 📌 Автору на кофе
+
+`Qiwi:`
+
+[![wtf2](https://i.ibb.co/ryDytyR/Comp-1-00000.png)](https://qiwi.com/n/HERAMANT)
+
+`Крипта:`
+* **Smart chain: 0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
+* **Bitcoin: bc1qxfvstf99kyuc5x5uugxtsh3m6w3a73ruzfav7e**
+* **Ethereum: 0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
