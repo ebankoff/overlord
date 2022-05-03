@@ -15,7 +15,7 @@
 *	HypeSquad changer
 *	Nicknames changer
 *	Avatars changer
-*	Proxy grabber
+*	Free proxies parser
 * Record all the actions of the software in the files .txt (located in the folder log)
 
 `Installation`
